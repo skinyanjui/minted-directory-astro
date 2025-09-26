@@ -1,161 +1,94 @@
 [
   {
-    "id": "calm",
-    "title": "Calm",
-    "image": "../images/calm.png",
+    "id": "junk-king",
+    "title": "Junk King",
     "featured": true,
     "tags": [
-      "breathing",
-      "sleep",
-      "meditation"
+      "junk-removal",
+      "eco-friendly"
     ],
-    "description": "Offers guided meditations, sleep stories, and calming music to help users relax and improve sleep.",
-    "link": "https://minteddirectory.com"
+    "description": "Nationwide junk removal pros with a recycling-first approach and same-day availability in most metros.",
+    "link": "https://www.junk-king.com"
   },
   {
-    "id": "headspace",
-    "title": "Squirtle",
-    "image": "../images/007.png",
+    "id": "got-junk",
+    "title": "1-800-GOT-JUNK?",
     "tags": [
-      "breathing",
-      "sleep",
-      "meditation"
+      "junk-removal",
+      "residential"
     ],
-    "description": "Provides a variety of guided meditations, sleep content, and mindfulness exercises for daily use.",
-    "link": "https://minteddirectory.com"
+    "description": "Full-service crews that lift, load, and haul away unwanted items for homes, offices, and retail cleanouts.",
+    "link": "https://www.1800gotjunk.com"
   },
   {
-    "id": "insight-timer",
-    "title": "Insight Timer",
-    "image": "",
-    "description": "Features a vast library of guided meditations, talks, and music tracks from teachers worldwide.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "buddhify",
-    "title": "Buddhify",
-    "image": "",
-    "description": "Customizable meditation sessions for various situations, with a one-time payment model.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "smiling-mind",
-    "title": "Smiling Mind",
-    "image": "",
-    "description": "A non-profit app designed by psychologists, offering mindfulness programs for different age groups and settings.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "meditopia",
-    "title": "Meditopia",
+    "id": "college-hunks",
+    "title": "College HUNKS Hauling Junk",
     "tags": [
-      "breathing",
-      "meditation"
+      "junk-removal",
+      "moving-support"
     ],
-    "image": "",
-    "description": "Focuses on sleep and stress reduction with guided meditations in multiple languages.",
-    "link": "https://minteddirectory.com"
+    "description": "Uniformed teams that handle donation pickups, light demolition, and junk removal with upfront pricing.",
+    "link": "https://www.collegehunkshaulingjunk.com"
   },
   {
-    "id": "happier",
-    "title": "10% Happier",
+    "id": "wm-dumpster-rental",
+    "title": "WM Dumpster Rental",
+    "featured": true,
     "tags": [
-      "yoga",
-      "meditation"
+      "dumpster-rental",
+      "construction"
     ],
-    "image": "",
-    "description": "Teaches meditation through videos, guided sessions, and a personal coaching feature.",
-    "link": "https://minteddirectory.com"
+    "description": "Roll-off dumpster rentals from 10 to 40 yards with digital scheduling, swap-outs, and job site reporting.",
+    "link": "https://www.wm.com/us/en/roll-off-dumpsters"
   },
   {
-    "id": "simple-habit",
-    "title": "Simple Habit",
-    "image": "",
-    "description": "Offers short, 5-minute meditations for busy individuals, with sessions led by mindfulness experts.",
-    "link": "https://minteddirectory.com"
+    "id": "budget-dumpster",
+    "title": "Budget Dumpster",
+    "tags": [
+      "dumpster-rental"
+    ],
+    "description": "Flat-rate dumpster rentals for contractors and property managers with nationwide coverage and account support.",
+    "link": "https://www.budgetdumpster.com"
   },
   {
-    "id": "aura",
-    "title": "Aura",
-    "image": "",
-    "description": "Personalized mindfulness meditations, stories, and coaching to reduce stress and anxiety.",
-    "link": "https://minteddirectory.com"
+    "id": "bin-there-dump-that",
+    "title": "Bin There Dump That",
+    "tags": [
+      "dumpster-rental",
+      "residential"
+    ],
+    "description": "Residential-friendly dumpsters with driveway protection boards and weekend delivery options.",
+    "link": "https://bintheredumpthatusa.com"
   },
   {
-    "id": "breath",
-    "title": "Breethe",
-    "image": "",
-    "description": "Provides guided meditations, inspirational talks, and supportive community features.",
-    "link": "https://minteddirectory.com"
+    "id": "united-site-services",
+    "title": "United Site Services",
+    "featured": true,
+    "tags": [
+      "portable-toilets",
+      "events"
+    ],
+    "description": "Large fleet of portable restrooms, hand-wash stations, and temporary fencing for events and construction sites.",
+    "link": "https://www.unitedsiteservices.com"
   },
   {
-    "id": "mylife",
-    "title": "MyLife Meditation",
-    "image": "",
-    "description": "Offers mood tracking and personalized meditation recommendations based on user emotions.",
-    "link": "https://minteddirectory.com"
+    "id": "porta-kleen",
+    "title": "Porta Kleen",
+    "tags": [
+      "portable-toilets",
+      "construction"
+    ],
+    "description": "Midwest-based provider offering restroom trailers, holding tanks, and daily service routes for job sites.",
+    "link": "https://www.portakleen.com"
   },
   {
-    "id": "waking-up",
-    "title": "Waking Up",
-    "image": "",
-    "description": "Created by neuroscientist Sam Harris, offering guided meditations and philosophical insights.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "medito",
-    "title": "Medito",
-    "image": "",
-    "description": "A free meditation app with a variety of guided sessions and customizable features.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "healthy-minds-program",
-    "title": "Healthy Minds Program",
-    "image": "",
-    "description": "Focuses on increasing awareness and well-being through guided meditations and podcast-style content.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "sattva",
-    "title": "Sattva",
-    "image": "",
-    "description": "Offers guided meditations, chants, and mantras, with a focus on ancient Vedic principles.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "mindfullness",
-    "title": "Mindfulness.com",
-    "image": "",
-    "description": "Provides a range of mindfulness meditations and courses for beginners and experienced practitioners.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "oak",
-    "title": "Oak",
-    "image": "",
-    "description": "A free meditation and breathing app with customizable sessions and progress tracking.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "stop-breathe-think",
-    "title": "Stop, Breathe & Think",
-    "image": "",
-    "description": "Offers mindfulness and meditation activities tailored to user emotions and experiences.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "mindfullness-app",
-    "title": "The Mindfulness App",
-    "image": "",
-    "description": "Provides guided and silent meditations with customizable session lengths and reminders.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "zenfie",
-    "title": "Zenfie",
-    "image": "",
-    "description": "Offers a variety of meditation techniques, including breathwork, sound baths, and guided journeys.",
-    "link": "https://minteddirectory.com"
+    "id": "mr-restrooms",
+    "title": "Mr. Restrooms",
+    "tags": [
+      "portable-toilets",
+      "events"
+    ],
+    "description": "Luxury restroom trailer rentals with climate control, attendants, and flexible weekend packages.",
+    "link": "https://www.mrrestrooms.com"
   }
 ]

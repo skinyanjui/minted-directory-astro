@@ -1,89 +1,112 @@
-# available directory themes:
-# spearmint, peppermint, hemingway, brookmint
 theme = 'brookmint'
 
 [general]
-title = "Meditation Apps"
+title = "Waste Service Pros"
 logo = ""
-iconLogo = "tabler:coffee"
+iconLogo = "tabler:trash"
 
 [general.seo]
-name = "Cafe Directory"
-description = "Find the best nuxt starter kits."
-url = "https://nuxtstarters.com"
+name = "Waste Service Pros"
+description = "Compare junk removal, dumpster rental, and portable toilet providers that keep projects on schedule."
+url = "https://wasteservicepros.com"
 
 [directoryData.source]
 name = "json"    # default, mock, sheets, json
 links = "normal"
 
 [directoryData.tagPages]
-title = "{0} Apps"
+title = "{0} Services"
 
 [directoryData.search]
-placeholder = "Search among {0} listings of this directory :)"
+placeholder = "Search {0} waste service providers"
 
 [[directoryData.tags]]
-key = "breathing"
-name = "Breathing"
+key = "junk-removal"
+name = "Junk Removal"
+color = "red"
+emoji = "🧹"
+description = "Full-service hauling teams for residential cleanouts and commercial jobs."
+
+[[directoryData.tags]]
+key = "dumpster-rental"
+name = "Dumpster Rental"
 color = "blue"
-emoji = "👃"
-description = "Breathing techniques are a popular feature in meditation apps."
+emoji = "🗑️"
+description = "Roll-off and front-load dumpster options for contractors and facility managers."
 
 [[directoryData.tags]]
-key = "sleep"
-name = "Sleep"
+key = "portable-toilets"
+name = "Portable Toilets"
 color = "green"
-emoji = "💤"
-description = "Some apps include music that slowly goes away to help you sleep better and rest."
+emoji = "🚻"
+description = "Sanitation solutions for events and job sites."
 
 [[directoryData.tags]]
-key = "meditation"
-name = "Meditation"
-color = "purple"
-emoji = "🧘‍♂️"
-description = "A meditation for your life. It's a great way to relax and clear your mind. It's also a great way to improve your sleep."
+key = "eco-friendly"
+name = "Eco Friendly"
+color = "emerald"
+emoji = "🌱"
+description = "Providers emphasizing recycling and landfill diversion."
 
 [[directoryData.tags]]
-key = "yoga"
-name = "Yoga"
-color = "purple"
-emoji = "🧘‍♂️"
-description = "A yoga for your life."
+key = "construction"
+name = "Construction"
+color = "amber"
+emoji = "🏗️"
+description = "Services built for contractors and large projects."
 
 [[directoryData.tags]]
-key = "timer"
-name = "Timer"
-color = "green"
-emoji = "⏰"
-description = "Timers can be used to track how much you meditate."
+key = "events"
+name = "Events"
+color = "pink"
+emoji = "🎪"
+description = "Portable restroom fleets for festivals, weddings, and corporate gatherings."
+
+[[directoryData.tags]]
+key = "residential"
+name = "Residential"
+color = "sky"
+emoji = "🏡"
+description = "Flexible schedules for homeowners and property managers."
+
+[[directoryData.tags]]
+key = "moving-support"
+name = "Moving Support"
+color = "violet"
+emoji = "📦"
+description = "Crew add-ons for packing, labor-only moves, and donation runs."
 
 [header.banner]
 show = true
-text = "Follow mark_bruderer on twitter."
-link = "https://x.com/intent/follow?screen_name=mark_bruderer"
-brandText = "AI Agent Libraries"
+text = "Need service in the next 24 hours? Get matched with a provider."
+link = "https://wasteservicepros.com/request-quote"
+brandText = "Waste Service Pros"
 
 [header.navbar]
 colorModeSelector = true
 
 [[header.navbar.links]]
-name = "Blog"
+name = "Vendors"
+href = "/"
+
+[[header.navbar.links]]
+name = "Guides"
 href = "/blog"
 
 [[header.navbar.links]]
-name = "Analytics"
-href = "https://us.posthog.com/shared/vHlGCcSqPjGH4r_QijaXSETtmN9J-g"
+name = "Partner With Us"
+href = "https://wasteservicepros.com/partner"
 target = "_blank"
 
 [header.actionButton]
-text = "Submit an app"
-href = "https://tally.so"
+text = "Get a Quote"
+href = "https://wasteservicepros.com/request-quote"
 
 [footer]
-description = "Best directory for my niche."
+description = "Your curated directory for junk removal, dumpster rental, and portable toilet companies."
 
 [footer.socials.x]
-link = "https://x.com/mark_bruderer"
+link = "https://twitter.com/wasteservicepros"
 
 [footer.socials.youtube]
-link = "https://www.youtube.com/@mark_hacks"
+link = "https://www.youtube.com/@wasteservicepros"
